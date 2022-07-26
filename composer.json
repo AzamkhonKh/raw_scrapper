@@ -1,0 +1,18 @@
+{
+    "name": "azamkhon/raw_scrapper",
+    "description": "this is required to scrap data from OLX",
+    "require": {
+        "symfony/panther": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Azamkhon\\RawScrapper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "azamkhon",
+            "email": "azamkhon.kh@gmail.com"
+        }
+    ]
+}
